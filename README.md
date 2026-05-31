@@ -1,35 +1,35 @@
-<h2 align="center">👋 Hello! I'm Aung Hein.</h2>
-<p align="center">
+<h2 align="center">👋 Hello! I'm Aung Hein Kyaw</h2>
 
+<p align="center">
+DevOps Engineer | AWS | Kubernetes | CI/CD | Monitoring
 </p>
 
+---
 
-- 🔭 I’m currently working at [KnowBe4](https://knowbe4.com) as an SRE
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@Aung Heincajay](https://twitter.com/Aung Heincajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+### 👨‍💻 About Me
 
--------
+- 🔭 I’m currently working as a **DevOps Engineer**
+- ☁️ Experienced with **AWS, Kubernetes, Docker, and CI/CD**
+- 🚀 Working with cloud infrastructure, production deployments, monitoring, and automation
+- 📊 Interested in DevOps, SRE, cloud security, and infrastructure reliability
+- 📚 Currently preparing for the **AWS DevOps Engineer Professional exam**
 
-**📝 Latest Blog Posts**
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [Yearly Review - 2025](https://blog.Aung Heincyriac.in/blog/2025/)
-- [Hacking with Knives and Spoons](https://blog.Aung Heincyriac.in/blog/cooking/)
-- [Yearly Review 2024](https://blog.Aung Heincyriac.in/blog/2024/)
-- [Python + Nix Flakes + Containers](https://blog.Aung Heincyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.Aung Heincyriac.in/blog/2023/)
-<!-- BLOG-POST-LIST:END -->
+### 🛠️ Tech Stack
 
--------
+**Cloud:** AWS, Azure  
+**Containers:** Docker, Kubernetes, ECS, EKS  
+**CI/CD:** Jenkins, GitLab CI/CD, GitHub Actions  
+**Monitoring:** Prometheus, Grafana, CloudWatch, ELK  
+**Database:** PostgreSQL, MySQL, Redis, ClickHouse  
+**Tools:** Linux, Nginx, Terraform, Git
 
-📊 **Weekly development breakdown**
+---
+
+### 📊 Weekly Development Breakdown
+
 <!--START_SECTION:waka-->
 
 ```txt
 No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
--------
