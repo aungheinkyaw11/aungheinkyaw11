@@ -26,10 +26,3 @@ DevOps Engineer | AWS | Kubernetes | CI/CD | Monitoring
 **Tools:** Linux, Nginx, Terraform, Git
 
 ---
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
